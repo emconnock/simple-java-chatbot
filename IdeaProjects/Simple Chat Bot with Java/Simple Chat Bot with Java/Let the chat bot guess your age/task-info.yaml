@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/bot/SimpleBot.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9927#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 18 May 2024 16:13:49 UTC"
+record: 3
